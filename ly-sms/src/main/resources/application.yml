@@ -15,7 +15,7 @@ spring:
     host: 127.0.0.1
 ly:
   sms:
-    accessKeyId: LTAI4FfAzQjho2nZ1fZn1y2v
-    accessKeySecret: 7ran76JR6G0GSAzNsaUoEpyUCC6RJs
+    accessKeyId:
+    accessKeySecret: 
     signName: 商城shop # 签名
     verifyCodeTemplate: SMS_176521189 # 模板名称
